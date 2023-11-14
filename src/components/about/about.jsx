@@ -10,7 +10,7 @@ const About = () => {
               <div className="col-lg-6 col-md-12">
                 <div className="card-body">
                   <div className="h4 mt-0 title">About</div>
-                  <p>Hello! I am Jonathan. I'm From Klabat University</p>
+                  <p>Hello! I am Jonathan. I'm From Klabat University, I am an active student in the 5th semester, I am taking the Faculty of Computer Science majoring in Information Engineering</p>
                   </div>
               </div>
               <div className="col-lg-6 col-md-12">
